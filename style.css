@@ -3,7 +3,7 @@
     align-items: center;
     gap: 35px;
     padding: 20px 40px;
-    
+    font-style: italic;
 }
 #first {
     text-align: center;
@@ -14,6 +14,9 @@
 
 #logo {
     margin-right: auto;
+    text-decoration: underline;
+    color: rgb(166, 66, 8);
+    
 }
 
 .Header a {
@@ -101,9 +104,6 @@
     margin: 12px 0;
 }
 
-.footer-box p span {
-    float: right;
-}
 
 .footer-box input {
     width: 75%;
