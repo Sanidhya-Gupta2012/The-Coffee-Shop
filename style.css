@@ -157,8 +157,7 @@
         height: 240px;
     }
 
-    #first h1,
-    #second h1 {
+    #first h1,#second h1 {
         font-size: 1.6rem;
     }
 
